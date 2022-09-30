@@ -97,6 +97,7 @@ com.refinedmods.refinedstorage.render.blockentity
 com.refinedmods.refinedstorage.render.collision
 com.refinedmods.refinedstorage.render.color
 com.refinedmods.refinedstorage.render.model
+com.refinedmods.refinedstorage.render.model.baked
 com.refinedmods.refinedstorage.render.resourcepack
 com.refinedmods.refinedstorage.screen
 com.refinedmods.refinedstorage.screen.factory
